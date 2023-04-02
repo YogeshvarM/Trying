@@ -1,0 +1,21 @@
+{
+  "main.css": "/portfolio/static/css/main.c4c75d4c.chunk.css",
+  "main.js": "/portfolio/static/js/main.66aaa658.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.66aaa658.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+  "static/css/2.a4939820.chunk.css": "/portfolio/static/css/2.a4939820.chunk.css",
+  "static/js/2.84819e96.chunk.js": "/portfolio/static/js/2.84819e96.chunk.js",
+  "static/js/2.84819e96.chunk.js.map": "/portfolio/static/js/2.84819e96.chunk.js.map",
+  "index.html": "/portfolio/index.html",
+  "precache-manifest.0e5f4927a23759b41fdc3bb82c0691fa.js": "/portfolio/precache-manifest.0e5f4927a23759b41fdc3bb82c0691fa.js",
+  "service-worker.js": "/portfolio/service-worker.js",
+  "static/css/2.a4939820.chunk.css.map": "/portfolio/static/css/2.a4939820.chunk.css.map",
+  "static/css/main.c4c75d4c.chunk.css.map": "/portfolio/static/css/main.c4c75d4c.chunk.css.map",
+  "static/media/fastapi_sklearn.png": "/portfolio/static/media/fastapi_sklearn.f7d742fc.png",
+  "static/media/graph_embeddings.png": "/portfolio/static/media/graph_embeddings.fed0850a.png",
+  "static/media/kafkaml.png": "/portfolio/static/media/kafkaml.9c0f9867.png",
+  "static/media/portfolio.png": "/portfolio/static/media/portfolio.4b632d51.png",
+  "static/media/scikit_pipes.png": "/portfolio/static/media/scikit_pipes.8ba027d9.png",
+  "static/media/sklearn_genetic_opt.png": "/portfolio/static/media/sklearn_genetic_opt.23273bc8.png"
+}
